@@ -32,13 +32,33 @@ def hello_practice():
 
 @app.route("/create",methods=['GET','POST'])
 def create():
-    if request.method =='POST':
-        with app.app_context():
+    with app.app_context():
+        if request.method =='POST':
             title = request.form.get('title')
             body = request.form.get('body')
             post=Post(title=title, body=body)
             db.session.add(post)
             db.session.commit()
+            return redirect('/')
+        else:
+            return  render_template('create.html')
+
+@app.route("/<int:id>/update",methods=['GET','POST'])
+def update(id ):
+    with app.app_context():
+        post = Post.query.get(id)
+        if request.method =='GET':
+            return render_template('update.html',post=post)
+        else:
+            post.title = request.form.get('title')
+            post.body = request.form.get('body')
+            db.session.commit()
+            return redirect('/')
+
+@app.route("/<int:id>/delete",methods=['GET'])
+def delete(id):
+    with app.app_context():
+        post = Post.query.get(id)
+        db.session.delete(post)
+        db.session.commit()
         return redirect('/')
-    else:
-        return  render_template('create.html')

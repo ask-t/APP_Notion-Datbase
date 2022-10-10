@@ -5,6 +5,8 @@
     {% for post in posts %}
     <article>
         <h2>{{ post.title }}</h2>
+        <a href="/{{post.id}}/update" role="button">Edit</a>
+        <a href="/{{post.id}}/delete" role="button">Delete</a>
         <p>{{ post.created_at }}</p>
         <p>{{ post.body }}</p>
     </article>
