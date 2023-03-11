@@ -1,10 +1,10 @@
-import requests, json
+import requests, json,config
 from prettytable import PrettyTable
 
 url = "https://api.notion.com/v1/pages"
 
-token = ''
-databaseId = ''
+token = config.NOTION_TOKEN
+databaseId = config.DATABASE_ID
 
 
 headers = {
@@ -46,7 +46,7 @@ def readDatabase(databaseId, headers):
         table.add_row([row[0], row[1]])
     print(table)
 
-# readDatabase(databaseId, headers)
+readDatabase(databaseId, headers)
 
 
 def createPage(databaseId, headers):
@@ -87,7 +87,7 @@ def createPage(databaseId, headers):
     print(res.status_code)
     print(res.text)
 
-createPage(databaseId, headers)
+# createPage(databaseId, headers)
 
 def updatePage(pageId, headers):
     updateUrl = f"https://api.notion.com/v1/pages/{pageId}"

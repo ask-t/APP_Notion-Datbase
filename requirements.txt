@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######`
+bs4
+beautifulsoup4
+Flask
+Jinja2
+requests
+gunicorn
+python-dotenv  
+###### Requirements with Version Specifiers ######`
