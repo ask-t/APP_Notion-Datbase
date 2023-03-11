@@ -22,7 +22,7 @@ def readDatabase(databaseId, headers):
 
     with open('./db.json', 'w', encoding='utf8') as f:
         "{}".format(json.dump(data, f, ensure_ascii=False,indent=2))
-    with open('./db.json', 'r') as f:
+    with open('./db.json', 'r' ,encoding='utf8') as f:
       data = json.load(f)
     #print("{}".format(json.dumps(data,indent=2)))
     print(data["results"][1]["properties"]["Japanese"]["rich_text"][0]["plain_text"])
@@ -46,6 +46,7 @@ def readDatabase(databaseId, headers):
     print(table)
 
 readDatabase(databaseId, headers)
+
 
 def createPage(databaseId, headers):
 
