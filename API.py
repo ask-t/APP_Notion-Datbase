@@ -47,7 +47,7 @@ def readDatabase(databaseId, headers):
     df = pd.DataFrame(selected_rows,columns=['English', 'Japanese'])
     return df
 
-readDatabase(databaseId, headers)
+#readDatabase(databaseId, headers)
 
 
 def createPage(text_en,text_jp,databaseId = databaseId, headers = headers):
