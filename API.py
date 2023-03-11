@@ -3,8 +3,8 @@ from prettytable import PrettyTable
 
 url = "https://api.notion.com/v1/pages"
 
-token = 'secret_LSj6NUeRXVHJSB1oyIR0uy7zPYlIEIhgoHnBo2bmvtE'
-databaseId = '36c218d22aa34ec0be75ac4946c96135'
+token = ''
+databaseId = ''
 
 
 headers = {
