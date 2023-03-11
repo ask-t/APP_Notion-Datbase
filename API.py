@@ -6,6 +6,7 @@ url = "https://api.notion.com/v1/pages"
 token = 'secret_LSj6NUeRXVHJSB1oyIR0uy7zPYlIEIhgoHnBo2bmvtE'
 databaseId = '36c218d22aa34ec0be75ac4946c96135'
 
+
 headers = {
     "Authorization": "Bearer " + token,
     "Content-Type": "application/json",
@@ -22,7 +23,7 @@ def readDatabase(databaseId, headers):
 
     with open('./db.json', 'w', encoding='utf8') as f:
         "{}".format(json.dump(data, f, ensure_ascii=False,indent=2))
-    with open('./db.json', 'r' ,encoding='utf8') as f:
+    with open('./db.json','r',encoding='utf8') as f:
       data = json.load(f)
     #print("{}".format(json.dumps(data,indent=2)))
     print(data["results"][1]["properties"]["Japanese"]["rich_text"][0]["plain_text"])
@@ -45,7 +46,7 @@ def readDatabase(databaseId, headers):
         table.add_row([row[0], row[1]])
     print(table)
 
-readDatabase(databaseId, headers)
+# readDatabase(databaseId, headers)
 
 
 def createPage(databaseId, headers):
@@ -53,36 +54,29 @@ def createPage(databaseId, headers):
     createUrl = 'https://api.notion.com/v1/pages'
 
     newPageData = {
-        "parent": { "database_id": databaseId },
-        "properties": {
-            "Description": {
-                "title": [
-                    {
-                        "text": {
-                            "content": "Review"
-                        }
-                    }
-                ]
-            },
-            "Value": {
-                "rich_text": [
-                    {
-                        "text": {
-                            "content": "Amazing"
-                        }
-                    }
-                ]
-            },
-            "Status": {
-                "rich_text": [
-                    {
-                        "text": {
-                            "content": "Active"
-                        }
-                    }
-                ]
+    "parent": { "database_id": databaseId },
+	"properties": {
+		"Japanese": {
+      "rich_text": [
+          {
+              "type": "text",
+              "text": {
+                  "content": "どういたしまして",
+              }
+          }
+      ]
+  },
+  "English": {
+      "title": [
+          {
+              "type": "text",
+              "text": {
+                  "content": "You're welcome"
+              }
+          }
+      ]
             }
-        }
+       }
     }
 
     data = json.dumps(newPageData)
@@ -92,6 +86,8 @@ def createPage(databaseId, headers):
 
     print(res.status_code)
     print(res.text)
+
+createPage(databaseId, headers)
 
 def updatePage(pageId, headers):
     updateUrl = f"https://api.notion.com/v1/pages/{pageId}"
@@ -106,7 +102,7 @@ def updatePage(pageId, headers):
                         }
                     }
                 ]
-            }        
+            }
         }
     }
 
@@ -116,3 +112,4 @@ def updatePage(pageId, headers):
 
     print(response.status_code)
     print(response.text)
+
