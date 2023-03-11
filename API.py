@@ -1,5 +1,6 @@
 import requests, json,config
 from prettytable import PrettyTable
+import pandas as pd
 
 url = "https://api.notion.com/v1/pages"
 
@@ -26,30 +27,30 @@ def readDatabase(databaseId, headers):
     with open('./db.json','r',encoding='utf8') as f:
       data = json.load(f)
     #print("{}".format(json.dumps(data,indent=2)))
-    print(data["results"][1]["properties"]["Japanese"]["rich_text"][0]["plain_text"])
+    # print(data["results"][1]["properties"]["Japanese"]["rich_text"][0]["plain_text"])
 
     result_len = len(data["results"])
-    print(result_len)
     selected_rows = []
     for i in range(result_len):
       a = []
       japanese = data["results"][i]["properties"]["Japanese"]["rich_text"][0]["plain_text"]
       english = data["results"][i]["properties"]["English"]["title"][0]["plain_text"]
-      a.append(japanese)
       a.append(english)
+      a.append(japanese)
       selected_rows.append(a)
-    print(selected_rows)
+    # print(selected_rows)
 
     table = PrettyTable()
-    table.field_names = ["Japanese", "Englsih"]
+    table.field_names = ["English", "Japanese"]
     for row in selected_rows:
         table.add_row([row[0], row[1]])
-    print(table)
+    df = pd.DataFrame(selected_rows,columns=['English', 'Japanese'])
+    return df
 
 readDatabase(databaseId, headers)
 
 
-def createPage(databaseId, headers):
+def createPage(text_en,text_jp,databaseId = databaseId, headers = headers):
 
     createUrl = 'https://api.notion.com/v1/pages'
 
@@ -61,7 +62,7 @@ def createPage(databaseId, headers):
           {
               "type": "text",
               "text": {
-                  "content": "どういたしまして",
+                  "content": text_jp,
               }
           }
       ]
@@ -71,7 +72,7 @@ def createPage(databaseId, headers):
           {
               "type": "text",
               "text": {
-                  "content": "You're welcome"
+                  "content": text_en
               }
           }
       ]
@@ -85,7 +86,8 @@ def createPage(databaseId, headers):
     res = requests.request("POST", createUrl, headers=headers, data=data)
 
     print(res.status_code)
-    print(res.text)
+    # print(res.text)
+    return readDatabase(databaseId, headers)
 
 # createPage(databaseId, headers)
 

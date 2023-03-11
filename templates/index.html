@@ -5,9 +5,56 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="/static/css/style.css">
 </head>
 <body>
+
     <h1>Test Notion API</h1>
-    
+    <form method="POST" >
+        <label for="Enllish">
+            <h2>English</h2>
+            <div class="FlexTextarea">
+                <div class="FlexTextarea__dummy" aria-hidden="true"></div>
+                <textarea id="FlexTextarea" class="FlexTextarea__textarea"  name = 'en'></textarea>
+              </div>
+        </label>
+        <br>
+
+        <label for="Japanese">
+            <h2>Japanese</h2>
+            <div class="FlexTextarea">
+                <div class="FlexTextarea__dummy" aria-hidden="true"></div>
+                <textarea id="FlexTextarea" class="FlexTextarea__textarea"  name = 'jp'></textarea>
+              </div>
+        </label>
+        <br>
+        <br>
+
+        <div class="button007">
+            <input type="submit" value="create new" >
+        </div>
+        <script src="/static/js/script.js"></script>
+    </form>
+    <p><h1>{{text_en}}</h1></p>
+    <p><h1>{{text_jp}}</h1></p>
+
+    <table>
+		<thead>
+			<tr>
+				{% for i in header: %}
+				<th scope="col">{{ i }}</th>
+				{% endfor %}
+			</tr>
+		</thead>
+		<tbody>
+			{% for i in record: %}
+			<tr>
+				{% for j in i: %}
+				<td>{{ j }}</td>
+				{% endfor %}
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
 </body>
 </html>
