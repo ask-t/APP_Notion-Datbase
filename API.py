@@ -1,9 +1,9 @@
-import requests, json,config
+import requests, json,config, os
 from prettytable import PrettyTable
 import pandas as pd
 
 url = "https://api.notion.com/v1/pages"
-
+path = os.getcwd()
 token = config.NOTION_TOKEN
 databaseId = config.DATABASE_ID
 
@@ -45,6 +45,7 @@ def readDatabase(databaseId, headers):
     for row in selected_rows:
         table.add_row([row[0], row[1]])
     df = pd.DataFrame(selected_rows,columns=['English', 'Japanese'])
+    df = df.replace([''], [None]).dropna(how='all')
     return df
 
 #readDatabase(databaseId, headers)
@@ -77,7 +78,7 @@ def createPage(text_en,text_jp,databaseId = databaseId, headers = headers):
           }
       ]
             }
-       }
+      }
     }
 
     data = json.dumps(newPageData)
@@ -115,3 +116,7 @@ def updatePage(pageId, headers):
     print(response.status_code)
     print(response.text)
 
+def create_csv(databaseId = databaseId, headers = headers):
+  df = readDatabase(databaseId, headers)
+  df = df.replace([''], [None]).dropna(how='all')
+  df.to_csv(f'{path}/to_csv_out.csv', header=False, index=False)
