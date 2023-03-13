@@ -24,7 +24,6 @@ def index():
                 API.create_csv()
                 text_en = "Succeed to create CSV"
                 downloadFile = "to_csv_out.csv"
-                
                 return send_file(downloadFile,as_attachment = True)
 
 

@@ -3,9 +3,9 @@
   "results": [
     {
       "object": "page",
-      "id": "3400258e-7090-4f07-9038-90c7ae523f9c",
-      "created_time": "2023-03-12T05:09:00.000Z",
-      "last_edited_time": "2023-03-12T05:09:00.000Z",
+      "id": "1d72c0b2-ca8d-4ba5-8ff7-b982cad50fe8",
+      "created_time": "2023-03-13T20:27:00.000Z",
+      "last_edited_time": "2023-03-13T20:27:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -29,7 +29,7 @@
             {
               "type": "text",
               "text": {
-                "content": "",
+                "content": "期間、(歴史上ある特色をもつ)時代、時期",
                 "link": null
               },
               "annotations": {
@@ -40,7 +40,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "",
+              "plain_text": "期間、(歴史上ある特色をもつ)時代、時期",
               "href": null
             }
           ]
@@ -52,7 +52,7 @@
             {
               "type": "text",
               "text": {
-                "content": "",
+                "content": "period",
                 "link": null
               },
               "annotations": {
@@ -63,19 +63,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "",
+              "plain_text": "period",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/3400258e70904f07903890c7ae523f9c"
+      "url": "https://www.notion.so/period-1d72c0b2ca8d4ba58ff7b982cad50fe8"
     },
     {
       "object": "page",
-      "id": "ea145b17-16fc-4a6c-b603-67d18b2a2f62",
-      "created_time": "2023-03-12T05:07:00.000Z",
-      "last_edited_time": "2023-03-12T05:07:00.000Z",
+      "id": "20deca77-c568-445b-9cff-674dd2d797ab",
+      "created_time": "2023-03-13T04:52:00.000Z",
+      "last_edited_time": "2023-03-13T04:52:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -99,7 +99,7 @@
             {
               "type": "text",
               "text": {
-                "content": "",
+                "content": "宣言",
                 "link": null
               },
               "annotations": {
@@ -110,7 +110,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "",
+              "plain_text": "宣言",
               "href": null
             }
           ]
@@ -122,7 +122,7 @@
             {
               "type": "text",
               "text": {
-                "content": "",
+                "content": "declaration",
                 "link": null
               },
               "annotations": {
@@ -133,19 +133,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "",
+              "plain_text": "declaration",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/ea145b1716fc4a6cb60367d18b2a2f62"
+      "url": "https://www.notion.so/declaration-20deca77c568445b9cff674dd2d797ab"
     },
     {
       "object": "page",
-      "id": "0e599f34-51af-4df9-b535-1711b3b5cca0",
-      "created_time": "2023-03-12T04:30:00.000Z",
-      "last_edited_time": "2023-03-12T04:30:00.000Z",
+      "id": "7321d6c0-f435-43bd-82ff-71e1272e048f",
+      "created_time": "2023-03-13T01:42:00.000Z",
+      "last_edited_time": "2023-03-13T01:42:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -169,7 +169,7 @@
             {
               "type": "text",
               "text": {
-                "content": "",
+                "content": "能力、技量",
                 "link": null
               },
               "annotations": {
@@ -180,7 +180,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "",
+              "plain_text": "能力、技量",
               "href": null
             }
           ]
@@ -192,7 +192,7 @@
             {
               "type": "text",
               "text": {
-                "content": "",
+                "content": "ability",
                 "link": null
               },
               "annotations": {
@@ -203,19 +203,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "",
+              "plain_text": "ability",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/0e599f3451af4df9b5351711b3b5cca0"
+      "url": "https://www.notion.so/ability-7321d6c0f43543bd82ff71e1272e048f"
     },
     {
       "object": "page",
-      "id": "c857e341-1f72-4616-95f8-9b6be25d5968",
-      "created_time": "2023-03-12T04:14:00.000Z",
-      "last_edited_time": "2023-03-12T04:14:00.000Z",
+      "id": "38dcdfa9-039c-418a-a940-0f1588cbc4d8",
+      "created_time": "2023-03-12T10:27:00.000Z",
+      "last_edited_time": "2023-03-12T10:27:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -239,7 +239,7 @@
             {
               "type": "text",
               "text": {
-                "content": "",
+                "content": "ありがとう",
                 "link": null
               },
               "annotations": {
@@ -250,7 +250,7 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "",
+              "plain_text": "ありがとう",
               "href": null
             }
           ]
@@ -262,7 +262,7 @@
             {
               "type": "text",
               "text": {
-                "content": "",
+                "content": "Thank you",
                 "link": null
               },
               "annotations": {
@@ -273,13 +273,13 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "",
+              "plain_text": "Thank you",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/c857e3411f72461695f89b6be25d5968"
+      "url": "https://www.notion.so/Thank-you-38dcdfa9039c418aa9400f1588cbc4d8"
     },
     {
       "object": "page",
@@ -350,76 +350,6 @@
         }
       },
       "url": "https://www.notion.so/I-am-hungry-8a3b74b99b934bb3a7029d64b5001cd2"
-    },
-    {
-      "object": "page",
-      "id": "8b658831-ef4b-4cae-bd59-3b5d067e1122",
-      "created_time": "2023-03-11T21:46:00.000Z",
-      "last_edited_time": "2023-03-11T21:46:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
-      },
-      "cover": null,
-      "icon": null,
-      "parent": {
-        "type": "database_id",
-        "database_id": "36c218d2-2aa3-4ec0-be75-ac4946c96135"
-      },
-      "archived": false,
-      "properties": {
-        "Japanese": {
-          "id": "x<k`",
-          "type": "rich_text",
-          "rich_text": [
-            {
-              "type": "text",
-              "text": {
-                "content": "",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": "",
-              "href": null
-            }
-          ]
-        },
-        "English": {
-          "id": "title",
-          "type": "title",
-          "title": [
-            {
-              "type": "text",
-              "text": {
-                "content": "",
-                "link": null
-              },
-              "annotations": {
-                "bold": false,
-                "italic": false,
-                "strikethrough": false,
-                "underline": false,
-                "code": false,
-                "color": "default"
-              },
-              "plain_text": "",
-              "href": null
-            }
-          ]
-        }
-      },
-      "url": "https://www.notion.so/8b658831ef4b4caebd593b5d067e1122"
     },
     {
       "object": "page",
