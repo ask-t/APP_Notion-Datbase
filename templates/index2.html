@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>index3</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <style>
+    </style>
+  <h1>Notion Database</h1>
+  <form method="POST">
+    <h2>DatabaseID: {{databaseId}}</h2>
+    <h2><a href="/">Change Database</a></h2>
+    {% for i in column%}
+    <label for= {{i[0]}}>
+      <h2>{{i[0]}}</h2>
+          <input type ="text"name = {{i[0]}} style = "width:50rem;font-size:auto;"></textarea>
+    {% endfor %}
+    </label>
+    <input type="hidden" name = "list" value = {{column}}>
+    <input type="hidden" name = "data" value = {{databaseId}}>
+    <br>
+    <input type="submit" name = "button" value="create new" >
+    <input type="submit" name = "button" value="CSV" >
+  </form>
+  <p><h1>{{text_en}}</h1></p>
+  <p><h1>{{text_jp}}</h1></p>
+
+  <table>
+  <thead>
+    <tr>
+      {% for i in header: %}
+      <th scope="col">{{ i }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for i in record: %}
+    <tr>
+      {% for j in i: %}
+      <td>{{ j }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+  <script src="/static/js/script.js"></script>
+</body>
+</html>
