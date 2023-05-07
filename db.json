@@ -3,9 +3,9 @@
   "results": [
     {
       "object": "page",
-      "id": "4d192174-1e45-4fca-915b-c7ea92bf50c0",
-      "created_time": "2023-03-31T03:03:00.000Z",
-      "last_edited_time": "2023-03-31T03:03:00.000Z",
+      "id": "7d6ccbcf-9abb-4333-a70a-e3f6709add74",
+      "created_time": "2023-04-03T05:16:00.000Z",
+      "last_edited_time": "2023-04-03T05:16:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -18,18 +18,18 @@
       "icon": null,
       "parent": {
         "type": "database_id",
-        "database_id": "f610aa7d-fad9-4121-b031-3877f682aa47"
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
       },
       "archived": false,
       "properties": {
-        "Text3": {
-          "id": "y{tH",
+        "Japanese": {
+          "id": "SYBG",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "1",
+                "content": "",
                 "link": null
               },
               "annotations": {
@@ -40,19 +40,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "1",
+              "plain_text": "",
               "href": null
             }
           ]
         },
-        "Test1": {
-          "id": "}iPW",
+        "Example": {
+          "id": "nf||",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "2",
+                "content": "",
                 "link": null
               },
               "annotations": {
@@ -63,19 +63,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "2",
+              "plain_text": "",
               "href": null
             }
           ]
         },
-        "Name": {
+        "English": {
           "id": "title",
           "type": "title",
           "title": [
             {
               "type": "text",
               "text": {
-                "content": "3",
+                "content": "",
                 "link": null
               },
               "annotations": {
@@ -86,19 +86,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "3",
+              "plain_text": "",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/3-4d1921741e454fca915bc7ea92bf50c0"
+      "url": "https://www.notion.so/7d6ccbcf9abb4333a70ae3f6709add74"
     },
     {
       "object": "page",
-      "id": "4ce67e10-6f01-4b9a-9ba4-b9fc14a9d7fa",
-      "created_time": "2023-03-31T03:03:00.000Z",
-      "last_edited_time": "2023-03-31T03:03:00.000Z",
+      "id": "4cc756f3-c5c2-42d6-9eea-4e69de1d7be3",
+      "created_time": "2023-04-03T04:54:00.000Z",
+      "last_edited_time": "2023-04-03T04:54:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -111,18 +111,18 @@
       "icon": null,
       "parent": {
         "type": "database_id",
-        "database_id": "f610aa7d-fad9-4121-b031-3877f682aa47"
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
       },
       "archived": false,
       "properties": {
-        "Text3": {
-          "id": "y{tH",
+        "Japanese": {
+          "id": "SYBG",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "1",
+                "content": "苦心して作り上げた、入念な、手の込んだ",
                 "link": null
               },
               "annotations": {
@@ -133,19 +133,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "1",
+              "plain_text": "苦心して作り上げた、入念な、手の込んだ",
               "href": null
             }
           ]
         },
-        "Test1": {
-          "id": "}iPW",
+        "Example": {
+          "id": "nf||",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "2",
+                "content": "",
                 "link": null
               },
               "annotations": {
@@ -156,19 +156,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "2",
+              "plain_text": "",
               "href": null
             }
           ]
         },
-        "Name": {
+        "English": {
           "id": "title",
           "type": "title",
           "title": [
             {
               "type": "text",
               "text": {
-                "content": "3",
+                "content": "elaborate",
                 "link": null
               },
               "annotations": {
@@ -179,19 +179,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "3",
+              "plain_text": "elaborate",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/3-4ce67e106f014b9a9ba4b9fc14a9d7fa"
+      "url": "https://www.notion.so/elaborate-4cc756f3c5c242d69eea4e69de1d7be3"
     },
     {
       "object": "page",
-      "id": "657ca9ef-cd2d-44e2-9b2a-698dec020852",
-      "created_time": "2023-03-31T03:01:00.000Z",
-      "last_edited_time": "2023-03-31T03:01:00.000Z",
+      "id": "cc8231bc-2e22-4627-878e-efde15bb2927",
+      "created_time": "2023-04-03T04:41:00.000Z",
+      "last_edited_time": "2023-04-03T04:41:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -204,18 +204,18 @@
       "icon": null,
       "parent": {
         "type": "database_id",
-        "database_id": "f610aa7d-fad9-4121-b031-3877f682aa47"
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
       },
       "archived": false,
       "properties": {
-        "Text3": {
-          "id": "y{tH",
+        "Japanese": {
+          "id": "SYBG",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "6",
+                "content": "衝撃の、震動の、打診(法)の  パーカッション、打楽器を含むか、特徴とするさま",
                 "link": null
               },
               "annotations": {
@@ -226,19 +226,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "6",
+              "plain_text": "衝撃の、震動の、打診(法)の  パーカッション、打楽器を含むか、特徴とするさま",
               "href": null
             }
           ]
         },
-        "Test1": {
-          "id": "}iPW",
+        "Example": {
+          "id": "nf||",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "7",
+                "content": "",
                 "link": null
               },
               "annotations": {
@@ -249,19 +249,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "7",
+              "plain_text": "",
               "href": null
             }
           ]
         },
-        "Name": {
+        "English": {
           "id": "title",
           "type": "title",
           "title": [
             {
               "type": "text",
               "text": {
-                "content": "8",
+                "content": "percussive",
                 "link": null
               },
               "annotations": {
@@ -272,19 +272,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "8",
+              "plain_text": "percussive",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/8-657ca9efcd2d44e29b2a698dec020852"
+      "url": "https://www.notion.so/percussive-cc8231bc2e224627878eefde15bb2927"
     },
     {
       "object": "page",
-      "id": "7a85a530-3add-4890-9ad0-6c432afb499e",
-      "created_time": "2023-03-31T03:00:00.000Z",
-      "last_edited_time": "2023-03-31T03:00:00.000Z",
+      "id": "6ad20a9c-028d-4ede-9cea-04f9ba4dea7b",
+      "created_time": "2023-04-03T04:41:00.000Z",
+      "last_edited_time": "2023-04-03T04:41:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -297,18 +297,18 @@
       "icon": null,
       "parent": {
         "type": "database_id",
-        "database_id": "f610aa7d-fad9-4121-b031-3877f682aa47"
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
       },
       "archived": false,
       "properties": {
-        "Text3": {
-          "id": "y{tH",
+        "Japanese": {
+          "id": "SYBG",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "3",
+                "content": "精力的な、活気に満ちた",
                 "link": null
               },
               "annotations": {
@@ -319,19 +319,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "3",
+              "plain_text": "精力的な、活気に満ちた",
               "href": null
             }
           ]
         },
-        "Test1": {
-          "id": "}iPW",
+        "Example": {
+          "id": "nf||",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "4",
+                "content": "",
                 "link": null
               },
               "annotations": {
@@ -342,19 +342,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "4",
+              "plain_text": "",
               "href": null
             }
           ]
         },
-        "Name": {
+        "English": {
           "id": "title",
           "type": "title",
           "title": [
             {
               "type": "text",
               "text": {
-                "content": "5",
+                "content": "energetic",
                 "link": null
               },
               "annotations": {
@@ -365,19 +365,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "5",
+              "plain_text": "energetic",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/5-7a85a5303add48909ad06c432afb499e"
+      "url": "https://www.notion.so/energetic-6ad20a9c028d4ede9cea04f9ba4dea7b"
     },
     {
       "object": "page",
-      "id": "86616803-9938-4ec0-8e0c-9498337485ae",
-      "created_time": "2023-03-31T02:59:00.000Z",
-      "last_edited_time": "2023-03-31T02:59:00.000Z",
+      "id": "56a374b6-0349-4db1-99c2-dc94f2900e6e",
+      "created_time": "2023-04-03T04:40:00.000Z",
+      "last_edited_time": "2023-04-03T04:40:00.000Z",
       "created_by": {
         "object": "user",
         "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
@@ -390,18 +390,18 @@
       "icon": null,
       "parent": {
         "type": "database_id",
-        "database_id": "f610aa7d-fad9-4121-b031-3877f682aa47"
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
       },
       "archived": false,
       "properties": {
-        "Text3": {
-          "id": "y{tH",
+        "Japanese": {
+          "id": "SYBG",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "1",
+                "content": "入り組んだ、複雑な、難解な",
                 "link": null
               },
               "annotations": {
@@ -412,19 +412,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "1",
+              "plain_text": "入り組んだ、複雑な、難解な",
               "href": null
             }
           ]
         },
-        "Test1": {
-          "id": "}iPW",
+        "Example": {
+          "id": "nf||",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "2",
+                "content": "",
                 "link": null
               },
               "annotations": {
@@ -435,19 +435,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "2",
+              "plain_text": "",
               "href": null
             }
           ]
         },
-        "Name": {
+        "English": {
           "id": "title",
           "type": "title",
           "title": [
             {
               "type": "text",
               "text": {
-                "content": "3",
+                "content": "intricate",
                 "link": null
               },
               "annotations": {
@@ -458,43 +458,43 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "3",
+              "plain_text": "intricate",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/3-8661680399384ec08e0c9498337485ae"
+      "url": "https://www.notion.so/intricate-56a374b603494db199c2dc94f2900e6e"
     },
     {
       "object": "page",
-      "id": "0c26d7e6-64dd-49f6-a48c-bb02b3cef682",
-      "created_time": "2023-03-30T22:18:00.000Z",
-      "last_edited_time": "2023-03-31T02:13:00.000Z",
+      "id": "a9793dc2-926a-4c1d-8906-a00a45eb9a6f",
+      "created_time": "2023-04-03T04:39:00.000Z",
+      "last_edited_time": "2023-04-03T04:39:00.000Z",
       "created_by": {
         "object": "user",
-        "id": "bb2a5131-1236-4a70-b4bb-864c6c31619d"
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
       },
       "last_edited_by": {
         "object": "user",
-        "id": "bb2a5131-1236-4a70-b4bb-864c6c31619d"
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
       },
       "cover": null,
       "icon": null,
       "parent": {
         "type": "database_id",
-        "database_id": "f610aa7d-fad9-4121-b031-3877f682aa47"
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
       },
       "archived": false,
       "properties": {
-        "Text3": {
-          "id": "y{tH",
+        "Japanese": {
+          "id": "SYBG",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "test",
+                "content": "遅れて",
                 "link": null
               },
               "annotations": {
@@ -505,19 +505,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "test",
+              "plain_text": "遅れて",
               "href": null
             }
           ]
         },
-        "Test1": {
-          "id": "}iPW",
+        "Example": {
+          "id": "nf||",
           "type": "rich_text",
           "rich_text": [
             {
               "type": "text",
               "text": {
-                "content": "test",
+                "content": "",
                 "link": null
               },
               "annotations": {
@@ -528,19 +528,19 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "test",
+              "plain_text": "",
               "href": null
             }
           ]
         },
-        "Name": {
+        "English": {
           "id": "title",
           "type": "title",
           "title": [
             {
               "type": "text",
               "text": {
-                "content": "test",
+                "content": "behind in",
                 "link": null
               },
               "annotations": {
@@ -551,13 +551,3454 @@
                 "code": false,
                 "color": "default"
               },
-              "plain_text": "test",
+              "plain_text": "behind in",
               "href": null
             }
           ]
         }
       },
-      "url": "https://www.notion.so/test-0c26d7e664dd49f6a48cbb02b3cef682"
+      "url": "https://www.notion.so/behind-in-a9793dc2926a4c1d8906a00a45eb9a6f"
+    },
+    {
+      "object": "page",
+      "id": "e6c7e62a-499b-4fe8-914c-e4acf421b600",
+      "created_time": "2023-04-03T04:39:00.000Z",
+      "last_edited_time": "2023-04-03T04:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(特殊な)用語法、術語、(専門)用語、術語学",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(特殊な)用語法、術語、(専門)用語、術語学",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "terminology",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "terminology",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/terminology-e6c7e62a499b4fe8914ce4acf421b600"
+    },
+    {
+      "object": "page",
+      "id": "d9dd3fde-2aa2-4bb2-92e3-8210ee0f8583",
+      "created_time": "2023-04-03T04:38:00.000Z",
+      "last_edited_time": "2023-04-03T04:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(…を)嘆き悲しむ、哀悼する",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(…を)嘆き悲しむ、哀悼する",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "lament",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "lament",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/lament-d9dd3fde2aa24bb292e38210ee0f8583"
+    },
+    {
+      "object": "page",
+      "id": "5060cb31-ddd7-4ecd-bf47-32b58ea4c179",
+      "created_time": "2023-04-03T04:37:00.000Z",
+      "last_edited_time": "2023-04-03T04:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "平行調",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "平行調",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "parallel key. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "parallel key. ",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/parallel-key-5060cb31ddd74ecdbf4732b58ea4c179"
+    },
+    {
+      "object": "page",
+      "id": "4a097f45-a16b-403a-abd3-5d9f3a7b43be",
+      "created_time": "2023-04-03T04:36:00.000Z",
+      "last_edited_time": "2023-04-03T04:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "ナポリの",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "ナポリの",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Neapolitan",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Neapolitan",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Neapolitan-4a097f45a16b403aabd35d9f3a7b43be"
+    },
+    {
+      "object": "page",
+      "id": "52491de3-8807-420b-98fe-f801445a01ff",
+      "created_time": "2023-04-03T04:36:00.000Z",
+      "last_edited_time": "2023-04-03T04:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "〈解釈される〉・取れる",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "〈解釈される〉・取れる",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "It may be interpreted in that way. そうも取れる",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "It may be interpreted in that way. そうも取れる",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "be interpreted",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "be interpreted",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/be-interpreted-52491de38807420b98fef801445a01ff"
+    },
+    {
+      "object": "page",
+      "id": "d8cee914-1304-4b2f-9443-c86ece621c97",
+      "created_time": "2023-04-03T04:34:00.000Z",
+      "last_edited_time": "2023-04-03T04:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "和声進行",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "和声進行",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "the harmonic progression",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "the harmonic progression",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/the-harmonic-progression-d8cee91413044b2f9443c86ece621c97"
+    },
+    {
+      "object": "page",
+      "id": "2999c5b7-bf42-488f-8e9a-d457c570e4c3",
+      "created_time": "2023-04-03T04:33:00.000Z",
+      "last_edited_time": "2023-04-03T04:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "思い出のメロディー",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "思い出のメロディー",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "memorable melodies",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "memorable melodies",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/memorable-melodies-2999c5b7bf42488f8e9ad457c570e4c3"
+    },
+    {
+      "object": "page",
+      "id": "1aac6920-7184-457c-bb83-0230dce4fb80",
+      "created_time": "2023-04-03T04:31:00.000Z",
+      "last_edited_time": "2023-04-03T04:31:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "ビロードのような、手触りのなめらかな、舌触りのよい、柔らかみのある",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "ビロードのような、手触りのなめらかな、舌触りのよい、柔らかみのある",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "velvety",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "velvety",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/velvety-1aac69207184457cbb830230dce4fb80"
+    },
+    {
+      "object": "page",
+      "id": "d8566217-e592-4f45-8ba5-3aa93e817217",
+      "created_time": "2023-04-03T04:30:00.000Z",
+      "last_edited_time": "2023-04-03T04:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "大きくて重い、どっしりした",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "大きくて重い、どっしりした",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "massive",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "massive",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/massive-d8566217e5924f458ba53aa93e817217"
+    },
+    {
+      "object": "page",
+      "id": "cc917c30-0742-4276-a7e7-1c33c0e77cd3",
+      "created_time": "2023-04-03T04:30:00.000Z",
+      "last_edited_time": "2023-04-03T04:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "音域",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "音域",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "register",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "register",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/register-cc917c3007424276a7e71c33c0e77cd3"
+    },
+    {
+      "object": "page",
+      "id": "d9941e2d-102b-410d-bd9f-78a73c017467",
+      "created_time": "2023-04-03T04:28:00.000Z",
+      "last_edited_time": "2023-04-03T04:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "特に、とりわけ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "特に、とりわけ",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": " in particular",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " in particular",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/in-particular-d9941e2d102b410dbd9f78a73c017467"
+    },
+    {
+      "object": "page",
+      "id": "c2aa7e7c-b4c9-43a6-90ea-6e39ca23c55a",
+      "created_time": "2023-04-03T04:27:00.000Z",
+      "last_edited_time": "2023-04-03T04:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "相互作用、相互の影響",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "相互作用、相互の影響",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "interaction",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "interaction",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/interaction-c2aa7e7cb4c943a690ea6e39ca23c55a"
+    },
+    {
+      "object": "page",
+      "id": "e26f8a52-8959-4d79-99f2-78a0ffd862c2",
+      "created_time": "2023-04-03T04:22:00.000Z",
+      "last_edited_time": "2023-04-03T04:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "青々とした、みずみずしく茂った、青草の多い、豪勢な、豪華な、豊富な",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "青々とした、みずみずしく茂った、青草の多い、豪勢な、豪華な、豊富な",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "lush",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "lush",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/lush-e26f8a5289594d7999f278a0ffd862c2"
+    },
+    {
+      "object": "page",
+      "id": "d33fc0a7-ba3c-459d-aa7b-88d025402a82",
+      "created_time": "2023-04-03T04:20:00.000Z",
+      "last_edited_time": "2023-04-03T04:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "包囲した、取り巻く",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "包囲した、取り巻く",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "the ambient air 周囲の空気, 大気.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "the ambient air 周囲の空気, 大気.",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "ambient",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "ambient",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/ambient-d33fc0a7ba3c459daa7b88d025402a82"
+    },
+    {
+      "object": "page",
+      "id": "c9a6bd7a-eddb-43c0-9a17-760d13704e8c",
+      "created_time": "2023-04-03T04:19:00.000Z",
+      "last_edited_time": "2023-04-03T04:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "穏やかな、静かな、平静な",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "穏やかな、静かな、平静な",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "calm",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "calm",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/calm-c9a6bd7aeddb43c09a17760d13704e8c"
+    },
+    {
+      "object": "page",
+      "id": "63b06e19-d326-4778-94c4-f0466bb72a7f",
+      "created_time": "2023-04-03T04:19:00.000Z",
+      "last_edited_time": "2023-04-03T04:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "厳重な、綿密な",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "厳重な、綿密な",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "searching",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "searching",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/searching-63b06e19d326477894c4f0466bb72a7f"
+    },
+    {
+      "object": "page",
+      "id": "a73f4870-76e8-450d-b9d9-bd3006674424",
+      "created_time": "2023-04-03T04:18:00.000Z",
+      "last_edited_time": "2023-04-03T04:18:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "昔の、往古の、古代の",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "昔の、往古の、古代の",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "ancient ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "ancient ",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/ancient-a73f487076e8450db9d9bd3006674424"
+    },
+    {
+      "object": "page",
+      "id": "73471476-c302-46c5-bbfb-9e43ebacc043",
+      "created_time": "2023-04-03T04:17:00.000Z",
+      "last_edited_time": "2023-04-03T04:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "収容する、乗せる、泊める、融通してやる、(…を)(…に)適応させる",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "収容する、乗せる、泊める、融通してやる、(…を)(…に)適応させる",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "accommodate",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "accommodate",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/accommodate-73471476c30246c5bbfb9e43ebacc043"
+    },
+    {
+      "object": "page",
+      "id": "0cfe440f-efb5-4bcb-947d-6cb88cef9151",
+      "created_time": "2023-04-03T04:15:00.000Z",
+      "last_edited_time": "2023-04-03T04:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "混ぜる",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "混ぜる",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "blend milk and cream (together) ミルクとクリームを混ぜる.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "blend milk and cream (together) ミルクとクリームを混ぜる.",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "blend ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "blend ",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/blend-0cfe440fefb54bcb947d6cb88cef9151"
+    },
+    {
+      "object": "page",
+      "id": "fab07587-b88c-4150-a55d-1010329198a4",
+      "created_time": "2023-04-03T04:15:00.000Z",
+      "last_edited_time": "2023-04-03T04:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "交互に継ぐ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "交互に継ぐ",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Packets of two files are interspliced with each other. 2 つのファイルのパケットは交互に一列に並べられる.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Packets of two files are interspliced with each other. 2 つのファイルのパケットは交互に一列に並べられる.",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "intersplice",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "intersplice",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/intersplice-fab07587b88c4150a55d1010329198a4"
+    },
+    {
+      "object": "page",
+      "id": "11968bf4-63eb-40fc-8e0f-7c42da5d55f1",
+      "created_time": "2023-04-03T04:14:00.000Z",
+      "last_edited_time": "2023-04-03T04:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "破片、断片、かけら",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "破片、断片、かけら",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "fragment",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "fragment",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/fragment-11968bf463eb40fc8e0f7c42da5d55f1"
+    },
+    {
+      "object": "page",
+      "id": "36c652a4-6fc8-4a4c-a493-189d41c3552c",
+      "created_time": "2023-04-03T04:13:00.000Z",
+      "last_edited_time": "2023-04-03T04:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "多分…である",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "多分…である",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Chances are (that) he has already got there. 多分彼はもう向こうに着いているだろう.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Chances are (that) he has already got there. 多分彼はもう向こうに着いているだろう.",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Chances are",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Chances are",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Chances-are-36c652a46fc84a4ca493189d41c3552c"
+    },
+    {
+      "object": "page",
+      "id": "17bf0337-4ade-4ac7-a1ad-a3a74fa06e59",
+      "created_time": "2023-04-02T22:00:00.000Z",
+      "last_edited_time": "2023-04-02T22:00:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(文章の)前後関係、文脈、脈絡",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(文章の)前後関係、文脈、脈絡",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "in a different context 異なった文脈の[で(は)].",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "in a different context 異なった文脈の[で(は)].",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "context",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "context",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/context-17bf03374ade4ac7a1ada3a74fa06e59"
+    },
+    {
+      "object": "page",
+      "id": "9bc8c719-8ff9-4e6b-b099-d0984ec518e8",
+      "created_time": "2023-04-02T21:59:00.000Z",
+      "last_edited_time": "2023-04-02T21:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "気まぐれな、むら気な、変な",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "気まぐれな、むら気な、変な",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "It is very whimsical. それはとても幻想的だ。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "It is very whimsical. それはとても幻想的だ。",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "whimsical",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "whimsical",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/whimsical-9bc8c7198ff94e6bb099d0984ec518e8"
+    },
+    {
+      "object": "page",
+      "id": "1307922a-02d3-4192-bc87-08898f449b43",
+      "created_time": "2023-04-02T21:58:00.000Z",
+      "last_edited_time": "2023-04-02T21:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "我慢する、自制する、阻止する、食い止める (…を)(内に)含む、包含する",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "我慢する、自制する、阻止する、食い止める (…を)(内に)含む、包含する",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "contain ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "contain ",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/contain-1307922a02d34192bc8708898f449b43"
+    },
+    {
+      "object": "page",
+      "id": "ebdaf8b2-9479-4a4a-8715-e48f0a25cb10",
+      "created_time": "2023-04-02T21:53:00.000Z",
+      "last_edited_time": "2023-04-02T21:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "受け流す",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "受け流す",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "fend off a question  質問を受け流す.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "fend off a question  質問を受け流す.",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "fend off",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "fend off",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/fend-off-ebdaf8b294794a4a8715e48f0a25cb10"
+    },
+    {
+      "object": "page",
+      "id": "0f292986-1d87-4f25-92ed-4bd953f74f06",
+      "created_time": "2023-04-02T21:52:00.000Z",
+      "last_edited_time": "2023-04-02T21:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "探検する、実地踏査する、探究する、調査する",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "探検する、実地踏査する、探究する、調査する",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "explore",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "explore",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/explore-0f2929861d874f2592ed4bd953f74f06"
+    },
+    {
+      "object": "page",
+      "id": "a23a4f1f-2c6a-4b6b-8e95-7a72e163633b",
+      "created_time": "2023-04-02T21:50:00.000Z",
+      "last_edited_time": "2023-04-02T21:50:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "要点、要旨、骨子",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "要点、要旨、骨子",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "grasp the gist of a matter 問題の核心をつかむ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "grasp the gist of a matter 問題の核心をつかむ",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "gist ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "gist ",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/gist-a23a4f1f2c6a4b6b8e957a72e163633b"
+    },
+    {
+      "object": "page",
+      "id": "c405a955-49a3-4686-ac23-41dc74bae2cb",
+      "created_time": "2023-04-02T21:49:00.000Z",
+      "last_edited_time": "2023-04-02T21:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "自分が行くパーティーは、きっといいものになると思っていました。",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "自分が行くパーティーは、きっといいものになると思っていました。",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "I knew that the party I was going to was going to be good. ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "I knew that the party I was going to was going to be good. ",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/I-knew-that-the-party-I-was-going-to-was-going-to-be-good-c405a95549a34686ac2341dc74bae2cb"
+    },
+    {
+      "object": "page",
+      "id": "edf05774-9e6e-4f09-a7fc-b88a655b9f6d",
+      "created_time": "2023-04-02T21:42:00.000Z",
+      "last_edited_time": "2023-04-02T21:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "近くにいる、あたりで待っている",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "近くにいる、あたりで待っている",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Stick around and you will learn something!　ここにいたら何かを学べるだろう！",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Stick around and you will learn something!　ここにいたら何かを学べるだろう！",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "stick around",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "stick around",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/stick-around-edf057749e6e4f09a7fcb88a655b9f6d"
+    },
+    {
+      "object": "page",
+      "id": "30876538-a617-4f12-824b-f594de1bc70a",
+      "created_time": "2023-04-02T21:40:00.000Z",
+      "last_edited_time": "2023-04-02T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "信じられない",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "信じられない",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "incredible",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "incredible",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/incredible-30876538a6174f12824bf594de1bc70a"
+    },
+    {
+      "object": "page",
+      "id": "10346244-7733-4bfa-b8f5-2a97f42552ac",
+      "created_time": "2023-04-02T21:40:00.000Z",
+      "last_edited_time": "2023-04-02T21:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(精神・肉体などの)衰弱、分析、分類、(機械・乗り物などの)破損、故障、(交渉などの)決裂",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(精神・肉体などの)衰弱、分析、分類、(機械・乗り物などの)破損、故障、(交渉などの)決裂",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Learn to break down large tasks into manageable units. 大きな仕事はやりやすいように小分けしてやるようにしなさい.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Learn to break down large tasks into manageable units. 大きな仕事はやりやすいように小分けしてやるようにしなさい.",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "breakdown",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "breakdown",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/breakdown-1034624477334bfab8f52a97f42552ac"
+    },
+    {
+      "object": "page",
+      "id": "60ba8fe9-f5d7-46aa-805f-f3515a70368a",
+      "created_time": "2023-04-02T21:37:00.000Z",
+      "last_edited_time": "2023-04-02T21:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": " 考え（名詞）",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " 考え（名詞）",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "thought",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "thought",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/thought-60ba8fe9f5d746aa805ff3515a70368a"
+    },
+    {
+      "object": "page",
+      "id": "636ddc3b-db0b-404c-802a-e1902de31bde",
+      "created_time": "2023-04-02T21:36:00.000Z",
+      "last_edited_time": "2023-04-02T21:36:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "どれだけ間違えている",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "どれだけ間違えている",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "how wrong",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "how wrong",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/how-wrong-636ddc3bdb0b404c802ae1902de31bde"
+    },
+    {
+      "object": "page",
+      "id": "37a96326-d569-4372-acd6-19ec2eda2df3",
+      "created_time": "2023-04-02T21:33:00.000Z",
+      "last_edited_time": "2023-04-02T21:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": " 詐欺　 誇大な宣伝",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": " 詐欺　 誇大な宣伝",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "media hype　メディアの大騒ぎ",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "media hype　メディアの大騒ぎ",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "hype",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "hype",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/hype-37a96326d5694372acd619ec2eda2df3"
+    },
+    {
+      "object": "page",
+      "id": "14944902-5017-43b8-8c24-3d0d1d06c010",
+      "created_time": "2023-04-02T21:30:00.000Z",
+      "last_edited_time": "2023-04-02T21:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "比較、対照、類似、匹敵(するもの)、たとえること",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "比較、対照、類似、匹敵(するもの)、たとえること",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "He made an interesting comparison between classical music and jazz. 彼はクラシックとジャズとのおもしろい比較をしてみせた",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "He made an interesting comparison between classical music and jazz. 彼はクラシックとジャズとのおもしろい比較をしてみせた",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "comparison",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "comparison",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/comparison-14944902501743b88c243d0d1d06c010"
+    },
+    {
+      "object": "page",
+      "id": "4fb0abe7-5231-4f76-bfa5-9e589733663e",
+      "created_time": "2023-04-02T21:27:00.000Z",
+      "last_edited_time": "2023-04-02T21:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "b6d751ee-6b97-4f8a-8e63-18496c9a2fab"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "7cb7818d-8d11-4d97-a6b0-63d57345c0e6"
+      },
+      "archived": false,
+      "properties": {
+        "Japanese": {
+          "id": "SYBG",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "(実際はともかく)見たところでは(…らしい) Mayと違って、人から聞いた情報",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "(実際はともかく)見たところでは(…らしい) Mayと違って、人から聞いた情報",
+              "href": null
+            }
+          ]
+        },
+        "Example": {
+          "id": "nf||",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "He has apparently forgotten it. 彼はどうもそれを忘れてしまったらしい.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "He has apparently forgotten it. 彼はどうもそれを忘れてしまったらしい.",
+              "href": null
+            }
+          ]
+        },
+        "English": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Apparently",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Apparently",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Apparently-4fb0abe752314f76bfa59e589733663e"
     }
   ],
   "next_cursor": null,
