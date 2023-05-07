@@ -53,7 +53,6 @@ def readDatabase(databaseId, headers):
         "{}".format(json.dump(data, f, ensure_ascii=False,indent=2))
     with open('./db.json','r',encoding='utf8') as f:
         data = json.load(f)
-
     result_len = len(data["results"])
     column_len = len(column_list)
     selected_rows = []
@@ -71,7 +70,7 @@ def readDatabase(databaseId, headers):
     for i in column_list:
         column_data.append(i[0])
 
-    df = pd.DataFrame(selected_rows,columns=column_data)
+    df = pd.DataFrame(selected_rows,columns=column_data).head(10)
     df = df.replace([''], [None]).dropna(how='all')
     return df
 

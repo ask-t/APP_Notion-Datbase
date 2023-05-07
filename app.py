@@ -30,7 +30,7 @@ def index():
                 df = API.createPage(row,databaseId)
                 header = df.columns
                 record = df.values.tolist()
-                return render_template('index2.html',header=header, record=record,column = column,databaseId=databaseId )
+                return render_template('index2.html',header=header, record=record,column = column,databaseId=databaseId)
             elif request.form["button"] == "CSV":
                 databaseId = request.form.get("data")
                 API.create_csv(databaseId)
