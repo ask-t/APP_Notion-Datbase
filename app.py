@@ -1,7 +1,6 @@
 from flask import Flask
 from flask import render_template,request,send_file
 import API
-import pandas as pd
 # create the app
 app = Flask(__name__)
 
@@ -38,7 +37,8 @@ def index():
                 downloadFile = "to_csv_out.csv"
                 return send_file(downloadFile,as_attachment = True)
 
-
+if __name__ == '__main__':
+    app.run(debug=True)
 
 
 

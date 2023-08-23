@@ -1,3 +1,31 @@
+main{
+  height:auto;
+}
+.div1{
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 100%;
+  /*rem算出をしやすくするために*/
+}
+
+.form1{
+  margin-right: 25rem;
+  margin-left: 25rem;
+}
+.input1{
+  margin-right: 10rem;
+  margin-left : 10rem;
+  margin-top: 1rem;
+  margin-bottom:1rem;
+}
+
+
 .FlexTextarea {
   position: relative;
   font-size: 1rem;
@@ -48,11 +76,7 @@
   box-sizing: inherit;
 }
 
-html {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  font-size: 62.5%;/*rem算出をしやすくするために*/
-}
+
 
 /* 007 */
 .button007 input {
